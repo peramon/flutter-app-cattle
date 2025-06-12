@@ -1,4 +1,4 @@
-# counter_clicks
+# Cattle project
 
 A new Flutter project.
 
